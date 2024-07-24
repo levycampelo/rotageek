@@ -8,6 +8,7 @@ pluralizeListTitles = false
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 disablePathToLower = true
+geekblogOverwriteHTMLBase = true
 
 # Needed for mermaid shortcodes
 [markup]
