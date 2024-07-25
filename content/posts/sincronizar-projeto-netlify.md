@@ -21,5 +21,7 @@ A primeira parte é sincronizar o GIT com netlify, na tela principal da conta do
 
 Na conta do Netlify vem com um dominio default (xxx.netlify.app) caso você precise de um dominio próprio é possivel adquirir na plataforma ou fazer um CNAME através do registro.br por exemplo.
 
+![dns](/dns.png)
+
 ### Finalizando
 Após esse ajustes todas as alterações que você executar no seu codigo fonte e aplicar o git push, é trigado o Netlify e na sequencia ocorre o deploy.
