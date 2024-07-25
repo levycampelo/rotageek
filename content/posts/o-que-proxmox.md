@@ -32,4 +32,4 @@ O sistema suporta virtualmente qualquer configuração de hardware, desde pequen
 
 **API aberta:** O Proxmox VE possui uma API RESTful integrada, que permite fácil gerenciamento com sistemas existentes e a criação de automação para tarefas comuns.
 
-![proxmox](public/proxmox.png)
+![proxmox](proxmox.png)
