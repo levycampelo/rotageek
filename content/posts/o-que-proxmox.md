@@ -1,5 +1,5 @@
 ---
-title: "O Que Proxmox ?"
+title: "O Que é Proxmox ?"
 date: 2024-07-23T18:37:54-03:00
 draft: true
 authors:
@@ -31,3 +31,5 @@ O sistema suporta virtualmente qualquer configuração de hardware, desde pequen
 **Migração ao vivo:** A plataforma também suporta a migração ao vivo de máquinas virtuais e containers, permitindo assim mover, sem interrupções, uma máquina em execução de um host físico para outro.
 
 **API aberta:** O Proxmox VE possui uma API RESTful integrada, que permite fácil gerenciamento com sistemas existentes e a criação de automação para tarefas comuns.
+
+![proxmox](public/proxmox.png)
