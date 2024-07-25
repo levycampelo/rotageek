@@ -24,4 +24,5 @@ Na conta do Netlify vem com um dominio default (xxx.netlify.app) caso você prec
 ![dns](/dns.png)
 
 ### Finalizando
-Após esse ajustes todas as alterações que você executar no seu codigo fonte e aplicar o git push, é trigado o Netlify e na sequencia ocorre o deploy.
+Com esse ajustes toda a vez que houver um deploy na branch, o Netlify vai fazer vai o build e publicar automaticamente. Esse servidor é muito bom para divulgação do seu trabalho sem a necessidade de pagar uma hospedagem.
+
