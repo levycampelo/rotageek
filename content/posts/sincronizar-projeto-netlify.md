@@ -8,21 +8,19 @@ tags:
   - Blog Hugo
 ---
 ### Introdução
-O Netlify é um serviço para hospedar sistemas que tem sua stack baseada em tecnologias front-end, que basicamente não precisam de banco de dados ou linguagens back-end para funcionar. O Netlify é grátis. Você só precisa se cadastrar e ser feliz.
+O Netlify é um serviço de hospedagem para sistemas baseados em tecnologias front-end, que não necessitam de banco de dados ou linguagens back-end para funcionar. O Netlify é gratuito; basta se cadastrar e começar a usar.
 
-O GitHub é uma plataforma de controle de versões gratuita que serve para gerir projetos e permite a colaboração entre uma grande comunidade de desenvolvedores.
+O GitHub é uma plataforma gratuita de controle de versões que permite gerenciar projetos e colaborar com uma vasta comunidade de desenvolvedores.
 
 ### 1ª Adicionar o seu repositorio GIT no Netlify
-A primeira parte é sincronizar o GIT com netlify, na tela principal da conta do netlify ir no botão "New site from GIT". Nessa parte você vai se autenticar com a conta do GIT e apontar qual repositório a conta do Netlify vai ter acesso. Além disso, você vai definir o comando que o Netlify deve executar o build do projeto. Nesse caso, usamos Hugo, o comando deve ser rodado com hugo -d.
+A primeira etapa é sincronizar o Git com o Netlify. Na tela principal da sua conta do Netlify, clique no botão "New site from Git". Nesta etapa, autentique-se com sua conta do Git e selecione o repositório ao qual o Netlify terá acesso. Além disso, defina o comando que o Netlify deve executar para fazer o build do projeto. Como estamos usando o Hugo, o comando deve ser hugo -d.
 
 ![netlify](/build-netlify.png)
 
 ### 2ª Ajustar domain
-
-Na conta do Netlify vem com um dominio default (xxx.netlify.app) caso você precise de um dominio próprio é possivel adquirir na plataforma ou fazer um CNAME através do registro.br por exemplo.
+A conta do Netlify inclui um domínio padrão (xxx.netlify.app). Caso precise de um domínio próprio, você pode adquiri-lo diretamente na plataforma ou configurar um CNAME através de serviços como o Registro.br.
 
 ![dns](/dns.png)
 
 ### Finalizando
-Com esse ajustes toda a vez que houver um deploy na branch, o Netlify vai fazer vai o build e publicar automaticamente. Esse servidor é muito bom para divulgação do seu trabalho sem a necessidade de pagar uma hospedagem.
-
+Com esses ajustes, toda vez que houver um deploy na branch, o Netlify fará o build e publicará automaticamente. Este serviço é excelente para divulgar seu trabalho sem a necessidade de pagar por hospedagem.

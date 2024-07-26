@@ -28,7 +28,7 @@ git add .
 Isso adicionará todos os arquivos no diretório atual para serem monitorados pelo Git.
 2.	Em seguida, confirme as mudanças usando o comando git commit:
 ```
-git commit -m "Primeiro commit: Descrição das mudanças feitas"
+git commit -m "Descreve as alterações"
 ```
 ### Passo 4: Conectar seu repositório local ao GitHub
 
