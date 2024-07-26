@@ -39,7 +39,7 @@ curl -L https://github.com/thegeeklab/hugo-geekblog/releases/latest/download/hug
 tar -xz -C themes/hugo-geekblog/ --strip-components=1
 ```
 
-### Ajustar o arquivo config.toml
+### Configure o arquivo config.toml
 ```
 baseURL = "http://localhost"
 title = "Geekblog"
