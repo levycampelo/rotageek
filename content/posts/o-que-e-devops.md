@@ -1,5 +1,5 @@
 ---
-title: "O Que E Devops"
+title: "O que faz um Devops ?"
 date: 2024-07-27T17:05:51-03:00
 draft: true
 authors:

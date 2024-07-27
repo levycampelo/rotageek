@@ -1,5 +1,5 @@
 ---
-title: "O Que faz um SRE ?"
+title: "O que faz um SRE ?"
 date: 2024-07-27T17:05:47-03:00
 draft: true
 authors:
