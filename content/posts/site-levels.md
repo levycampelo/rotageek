@@ -5,7 +5,7 @@ draft: true
 authors:
   - levy
 tags:
-  - SRE
+  - News 
 ---
 
 O site Levels.fyi (https://www.levels.fyi)é uma plataforma confiável para profissionais de tecnologia que fornece informações sobre níveis de carreira e salários em diversas empresas de tecnologia. A plataforma oferece serviços para ajudar profissionais a negociar salários e encontrar novas oportunidades de emprego, além de permitir que empregadores publiquem vagas de emprego e gerenciem atividades de contratação.
