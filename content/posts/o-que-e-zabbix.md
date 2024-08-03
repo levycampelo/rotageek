@@ -1,5 +1,5 @@
 ---
-title: "O Que E Zabbix"
+title: "O que é Zabbix ?"
 date: 2024-08-03T09:14:16-03:00
 draft: true
 authors:
