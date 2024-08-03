@@ -7,7 +7,7 @@ authors:
 tags:
   - SRE
 ---
-**Zabbix** é uma plataforma de monitoramento de código aberto projetada para rastrear a performance e disponibilidade de servidores, dispositivos de rede, aplicações e outros recursos de TI. Ele oferece um conjunto robusto de funcionalidades que permite aos administradores de sistema e engenheiros de rede monitorar e gerenciar suas infraestruturas de maneira eficiente.
+**Zabbix** é uma plataforma de monitoramento de código aberto projetada para rastrear a performance e disponibilidade de servidores, dispositivos de rede, aplicações e outros recursos de TI.
 
 ### Principais Funcionalidades do Zabbix:
 **Coleta de Dados:** Zabbix coleta dados de diferentes fontes, como servidores, máquinas virtuais, dispositivos de rede, aplicações e muito mais. Ele utiliza agentes (Zabbix Agents) instalados nos dispositivos, SNMP (Simple Network Management Protocol) e outros métodos para coletar esses dados.
@@ -16,7 +16,7 @@ tags:
 
 **Visualização de Dados:** Zabbix fornece uma interface web intuitiva que permite aos usuários visualizar os dados de monitoramento em forma de gráficos, dashboards, mapas de rede e relatórios.
 
-**Alertas e Notificações:** O sistema pode ser configurado para enviar alertas e notificações. As notificações podem ser enviadas por e-mail, SMS, ou Telegram.
+**Alertas e Notificações:** O sistema pode ser configurado para enviar alertas e notificações. As notificações podem ser enviadas por e-mail, ou Telegram.
 
 **Automação:** Zabbix permite a automação de ações baseadas em eventos específicos. Por exemplo, se um servidor ficar inativo, o Zabbix pode automaticamente tentar reiniciá-lo ou executar um script.
 
