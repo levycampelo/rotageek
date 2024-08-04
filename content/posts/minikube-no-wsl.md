@@ -5,7 +5,7 @@ draft: true
 authors:
   - levy
 tags:
-  - News
+  - k8s 
 ---
 Eu vou começar os estudos no Kubernetes e o melhor cenário é testando na prática. Com isso vamos instalar o minikube no nosso WSL do Windows para poder ter o single-node do K8S para os nossos testes.
 
