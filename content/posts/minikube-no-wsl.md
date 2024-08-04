@@ -11,7 +11,7 @@ Eu vou começar os estudos no Kubernetes e o melhor cenário é testando na prá
 
 Vamos iniciar, já pensando que você todos já possuim o WSL instalado com o Ubuntu, caso não tenha eu vou fazer um outro posts com a instalação.
 
-### 1º - Iniciar o WSL e ajustar o systemd:
+### 1º Iniciar o WSL e ajustar o systemd:
 ```
 vi /etc/wsl.conf
 [boot]
@@ -36,16 +36,15 @@ apt update && sudo apt upgrade -y
     ca-certificates \
     curl \
     software-properties-common
-```
-```
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 ```
 ### 5º Adicionar repositorio:
+```
 add-apt-repository \
    "deb [arch=amd64] https://download.docker.com/linux/ubuntu \
    $(lsb_release -cs) \
    stable"
-
+```
 ### 6º Agora vamos rodar um update e instalar o docker:
 ```
 apt-get update -y
@@ -55,7 +54,7 @@ apt-get install -y docker-ce
 ```
 usermod -aG docker $USER && newgrp docker
 ```
-### Nessa etapa vamos iniciar a instalação do Minikube
+### Nessa etapa vamos iniciar a instalação do Minikube:
 
 1º Download do Minikube:
 ```
@@ -70,12 +69,12 @@ chmod +x ./minikube
 mv ./minikube /usr/local/bin/
 ```
 
-4º Ajustar o driver do app de container:
+4º Ajustar o driver do app do container:
 ```
 minikube config set driver docker
 ```
 
-### Instalar o Kubectl
+### Instalar o Kubectl:
 1º Download do Kubectl
 ```
 curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
@@ -89,7 +88,7 @@ chmod +x ./kubectl
 mv ./kubectl /usr/local/bin/
 ```
 
-### Iniciar o minikube
+### Iniciar o minikube:
 ```
 minikube start
 ```
