@@ -5,7 +5,7 @@ draft: true
 authors:
   - levy
 tags:
-  - sre 
+  - MONITORACAO 
 ---
 # Transforme a Performance e a Resiliência do Seu Monitoramento com o eBook Zabbix em 3 Camadas
 

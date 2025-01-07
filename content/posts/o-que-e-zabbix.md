@@ -5,7 +5,7 @@ draft: true
 authors:
   - levy
 tags:
-  - SRE
+  - MONITORACAO
 ---
 **Zabbix** é uma plataforma de monitoramento de código aberto projetada para rastrear a performance e disponibilidade de servidores, dispositivos de rede, aplicações e outros recursos de TI.
 

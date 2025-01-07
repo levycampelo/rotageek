@@ -5,7 +5,7 @@ draft: true
 authors:
   - levy
 tags:
-  - sre
+  - MONITORACAO 
 ---
 
 # 🚀 **Lançamento: Integração Zabbix com Grafana - O Guia Completo!**
