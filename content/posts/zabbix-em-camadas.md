@@ -1,5 +1,5 @@
 ---
-title: "Transforme a Performance do seu monitoramento!"
+title: "Otimize seu monitoramento!"
 date: 2025-01-07T15:59:06-03:00
 draft: true
 authors:
