@@ -25,7 +25,10 @@ Apresentamos o **eBook "Integração Grafana com Zabbix: O Guia Completo das Con
 - **Fácil de seguir**: O guia é direto e foi feito para quem tem pouco tempo, mas quer aprender o necessário para implementar soluções de alta performance.
 - **Ideal para administradores de sistemas, engenheiros de redes e profissionais de TI** que buscam uma solução prática e escalável para seu ambiente de monitoramento.
 
-## **Adquira agora por apenas R$ 27,90** e comece a transformar seu monitoramento de TI com o poder da visualização de dados!
+### Oferta Especial de Lançamento!
+Adquira agora o eBook por apenas **R$ 27,90** e comece a desenvolver painéis customizados do seu ambiente.
 
-🔗 **[Clique aqui para comprar agora](#)**
+🔗 [**Clique aqui para comprar agora**](https://pay.kiwify.com.br/qV9OMQ4)
+
+🚀 **Aumente a performance, reduza falhas e tenha um monitoramento mais seguro e eficiente.**
 
