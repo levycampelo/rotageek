@@ -29,15 +29,3 @@ Apresentamos o **eBook "Integração Grafana com Zabbix: O Guia Completo das Con
 
 🔗 **[Clique aqui para comprar agora](#)**
 
----
-
-## 🔧 **Bônus**: Ao adquirir o eBook, você também terá acesso a **dicas exclusivas** para otimizar suas configurações no Grafana e no Zabbix, além de atualizações futuras!
-
-## **Garanta seu exemplar e leve seu monitoramento de TI para o próximo nível!**
-
----
-
-### **Não perca tempo! Comece hoje mesmo a dominar o Grafana e Zabbix!**
-
-🔗 **[Adquira o seu agora e transforme seu monitoramento!](#)**
-
