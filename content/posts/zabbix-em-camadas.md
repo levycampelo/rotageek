@@ -9,8 +9,6 @@ tags:
 ---
 # Transforme a Performance e a Resiliência do Seu Monitoramento com o eBook Zabbix em 3 Camadas
 
-**Você é um profissional de TI que busca melhorar a resiliência e performance do seu monitoramento de infraestrutura?** Então, o que você precisa é de uma arquitetura de monitoramento escalável, eficiente e robusta. E é exatamente isso que você vai aprender no meu novo eBook: **Zabbix em 3 Camadas**.
-
 ## O que é a Arquitetura de 3 Camadas do Zabbix?
 
 Este modelo de arquitetura envolve a separação de componentes do Zabbix em 3 camadas distintas:
